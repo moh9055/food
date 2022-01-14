@@ -254,6 +254,7 @@ html{
 
 .explore-food .card{
   border: none;
+  margin-bottom:1.58rem;
 }
 
 .explore-food .card img{
@@ -274,6 +275,7 @@ html{
 .explore-food .card .mainbtn{
   padding: 0.6325rem 1.8625rem;
   font-weight: 500; 
+  width:100%;
 }
 
 
